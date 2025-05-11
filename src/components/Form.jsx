@@ -195,7 +195,7 @@ const handleSubmit = (e) => {
         {/* div 1 */}
     <div className=" w-full  p-2  ">
                 <div className="mb-6">
-          <label className="block text-[5px] md:text-xl font-bold leading-[27.6px] uppercase text-[rgb(2,8,18)] mb-4">SELECTED CATEGORY</label>
+          <label className="block text-[20px] md:text-xl font-bold leading-[27.6px] uppercase text-[rgb(2,8,18)] mb-4">SELECTED CATEGORY</label>
          <a> <span className="text-[rgb(141,144,148)] text-[11px] font-normal leading-[13.8px] cursor-pointer  bg-[rgba(0,0,0,0)]">
                  Properties
 
